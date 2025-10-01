@@ -22,14 +22,14 @@ export  default function CTA() {
                         <div className="space-y-3 sm:space-y-4">
                             <div className="flex flex-col sm:flex-row items-center justify-center space-y-1 sm:space-y-0 sm:space-x-3 text-base lg:text-lg">
                                 <span className="text-muted-foreground">Phone:</span>
-                                <a href="tel:+380501234567" className="text-[#E96701] hover:text-[#d15a01] transition-colors">
-                                    +380 50 123 45 67
+                                <a href="tel:+380958688869" className="text-[#E96701] hover:text-[#d15a01] transition-colors">
+                                    +380 95 868 88 69
                                 </a>
                             </div>
                             <div className="flex flex-col sm:flex-row items-center justify-center space-y-1 sm:space-y-0 sm:space-x-3 text-base lg:text-lg">
                                 <span className="text-muted-foreground">Email:</span>
-                                <a href="mailto:contact@maxwelllinks.com" className="text-[#E96701] hover:text-[#d15a01] transition-colors break-all sm:break-normal">
-                                    contact@maxwelllinks.com
+                                <a href="mailto:maxwell.links.ltd@gmail.com" className="text-[#E96701] hover:text-[#d15a01] transition-colors break-all sm:break-normal">
+                                    maxwell.links.ltd@gmail.com
                                 </a>
                             </div>
                         </div>
